@@ -2,6 +2,9 @@
 
 We attempted scenario number 2 and 3 in this exercise.
 
+Get All scenario: FreightWaysAPITest -> Test.cs
+Scema-Validation: schema-validation.json
+
 File Name: FreightWaysAPITest
 
  In this test, we are verifying the endpoint 'https://jsonplaceholder.typicode.com/posts/idontexist' returns 404 Not Found.
